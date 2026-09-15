@@ -1,0 +1,303 @@
+[
+  {
+    "word": "heart",
+    "proto": "*ḱērd (Proto-Indo-European)",
+    "gloss": "the organ that beats",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*ḱērd", "note": "the root" },
+      { "lang": "English", "form": "heart", "note": "PIE *ḱ → h (Grimm); Latin kept c" },
+      { "lang": "German", "form": "Herz", "note": "same *ḱ → h; German z from the final dental" },
+      { "lang": "Dutch", "form": "hart", "note": "close to English" },
+      { "lang": "Swedish", "form": "hjärta", "note": "h preserved, vowel colored by j" },
+      { "lang": "Latin", "form": "cor, cord-", "note": "PIE *ḱ stayed c → cordial, concord, courage" },
+      { "lang": "Spanish", "form": "corazón", "note": "from Latin cor + augmentative -azo" },
+      { "lang": "French", "form": "cœur", "note": "Latin cor → Vulgar Latin *cor (cordem)" },
+      { "lang": "Greek", "form": "kardía", "note": "PIE *ḱ stayed k → cardiac, cardiology" },
+      { "lang": "Russian", "form": "serdtse", "note": "satem language: *ḱ became s" }
+    ]
+  },
+  {
+    "word": "night",
+    "proto": "*nókʷts (Proto-Indo-European)",
+    "gloss": "the dark hours",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*nókʷts", "note": "the root" },
+      { "lang": "English", "form": "night", "note": "gh spelled silent after the Great Vowel Shift" },
+      { "lang": "German", "form": "Nacht", "note": "ch = /x/ preserved from *k" },
+      { "lang": "Dutch", "form": "nacht", "note": "same Germanic *nahts" },
+      { "lang": "Swedish", "form": "natt", "note": "final cluster simplified" },
+      { "lang": "Latin", "form": "nox, noct-", "note": "→ nocturnal, equinox" },
+      { "lang": "Spanish", "form": "noche", "note": "Latin noctem, ct → ch" },
+      { "lang": "French", "form": "nuit", "note": "Latin *nuctem worn down" },
+      { "lang": "Greek", "form": "nýks", "note": "→ nyx, nyctalopia" },
+      { "lang": "Sanskrit", "form": "nákta (naktam)", "note": "remarkably conservative" }
+    ]
+  },
+  {
+    "word": "water",
+    "proto": "*wódr̥ (Proto-Indo-European)",
+    "gloss": "H₂O",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*wódr̥", "note": "the root (also *wed-)" },
+      { "lang": "English", "form": "water", "note": "Germanic *watar; t preserved" },
+      { "lang": "German", "form": "Wasser", "note": "High German shift: t → ss" },
+      { "lang": "Dutch", "form": "water", "note": "identical to English" },
+      { "lang": "Swedish", "form": "vatten", "note": "tt from geminated t" },
+      { "lang": "Latin", "form": "unda (wave)", "note": "with -d- suffix → undulate, abundant" },
+      { "lang": "Greek", "form": "hýdōr", "note": "→ hydrant, hydrogen; initial w-loss with rough breathing" },
+      { "lang": "Russian", "form": "voda", "note": "→ vodka = diminutive 'little water'" },
+      { "lang": "Sanskrit", "form": "udán", "note": "same *wed- root" }
+    ]
+  },
+  {
+    "word": "brother",
+    "proto": "*bʰréh₂tēr (Proto-Indo-European)",
+    "gloss": "male sibling",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*bʰréh₂tēr", "note": "kinship suffix -ter" },
+      { "lang": "English", "form": "brother", "note": "PIE *bʰ → b, *t → th (Grimm)" },
+      { "lang": "German", "form": "Bruder", "note": "*bʰ → b, *t stays d (no th in German)" },
+      { "lang": "Dutch", "form": "broer", "note": "worn down from broeder" },
+      { "lang": "Swedish", "form": "broder / bror", "note": "poetic + everyday forms" },
+      { "lang": "Latin", "form": "frater", "note": "→ fraternal, fraternity" },
+      { "lang": "Spanish", "form": "hermano", "note": "from Latin frater via *frastrum — f- lost" },
+      { "lang": "French", "form": "frère", "note": "Latin frater worn down" },
+      { "lang": "Greek", "form": "phrátēr (clan member)", "note": "*bʰ → ph" },
+      { "lang": "Sanskrit", "form": "bhrātar", "note": "almost unchanged from PIE" }
+    ]
+  },
+  {
+    "word": "tooth",
+    "proto": "*h₃dónts (Proto-Indo-European)",
+    "gloss": "biter",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*h₃dónts", "note": "present participle of 'eat'" },
+      { "lang": "English", "form": "tooth", "note": "d → t, t → th (Grimm's chain)" },
+      { "lang": "German", "form": "Zahn", "note": "d → t, then High German t → z" },
+      { "lang": "Dutch", "form": "tand", "note": "shows the plain t" },
+      { "lang": "Swedish", "form": "tand", "note": "same as Dutch" },
+      { "lang": "Latin", "form": "dens, dent-", "note": "→ dentist, trident, dandelion (dent de lion)" },
+      { "lang": "Spanish", "form": "diente", "note": "Latin dentem" },
+      { "lang": "Greek", "form": "odṓn, odont-", "note": "→ mastodon, Odonata" },
+      { "lang": "Sanskrit", "form": "dán", "note": "same root" }
+    ]
+  },
+  {
+    "word": "fish",
+    "proto": "*pésḱos (Proto-Indo-European)",
+    "gloss": "swimmer",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*pésḱos", "note": "the root" },
+      { "lang": "English", "form": "fish", "note": "PIE *p → f (Grimm's Law!)" },
+      { "lang": "German", "form": "Fisch", "note": "same shift, same word" },
+      { "lang": "Dutch", "form": "vis", "note": "single s" },
+      { "lang": "Swedish", "form": "fisk", "note": "sk cluster preserved" },
+      { "lang": "Latin", "form": "piscis", "note": "kept the p → Pisces, piscatorial" },
+      { "lang": "Spanish", "form": "pescado", "note": "from piscis-family root" },
+      { "lang": "Irish", "form": "iasc", "note": "Celtic branch, same root" },
+      { "lang": "Italian", "form": "pesce", "note": "Latin piscis → pesce" }
+    ]
+  },
+  {
+    "word": "hound",
+    "proto": "*ḱwṓn (Proto-Indo-European)",
+    "gloss": "dog",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*ḱwṓn", "note": "the root" },
+      { "lang": "English", "form": "hound", "note": "PIE *ḱ → h (Grimm), *w kept" },
+      { "lang": "German", "form": "Hund", "note": "same shift → also 'hund- red' = 100" },
+      { "lang": "Dutch", "form": "hond", "note": "same Germanic form" },
+      { "lang": "Swedish", "form": "hund", "note": "same" },
+      { "lang": "Latin", "form": "canis", "note": "kept *ḱ as c → canine, kennel" },
+      { "lang": "Spanish", "form": "can / perro", "note": "can survives in 'caniche' (poodle)" },
+      { "lang": "Greek", "form": "kýōn, kyn-", "note": "→ cynic, cynology" },
+      { "lang": "Sanskrit", "form": "śvā (shvan)", "note": "satem shift *ḱ → ś" }
+    ]
+  },
+  {
+    "word": "milk",
+    "proto": "*h₂melǵ- (Proto-Indo-European)",
+    "gloss": "to wipe off / milk",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*h₂melǵ-", "note": "verb 'to wipe/press out'" },
+      { "lang": "English", "form": "milk", "note": "Germanic *meluks" },
+      { "lang": "German", "form": "Milch", "note": "k → ch (High German shift)" },
+      { "lang": "Dutch", "form": "melk", "note": "plain k preserved" },
+      { "lang": "Swedish", "form": "mjölk", "note": "l-vocalization colors the vowel" },
+      { "lang": "Latin", "form": "mulgēre (to milk)", "note": "→ emulsion" },
+      { "lang": "Greek", "form": "amélgō", "note": "same root with a-prefix" },
+      { "lang": "Russian", "form": "moloko", "note": "Slavic branch, same root" }
+    ]
+  },
+  {
+    "word": "new",
+    "proto": "*néwos (Proto-Indo-European)",
+    "gloss": "not old",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*néwos", "note": "the root" },
+      { "lang": "English", "form": "new", "note": "Germanic *newwaz" },
+      { "lang": "German", "form": "neu", "note": "final w lost" },
+      { "lang": "Dutch", "form": "nieuw", "note": "w kept, pronounced" },
+      { "lang": "Swedish", "form": "ny", "note": "vowel y from i-umlaut" },
+      { "lang": "Latin", "form": "novus", "note": "→ novel, novice, innovate" },
+      { "lang": "Spanish", "form": "nuevo", "note": "Latin novus" },
+      { "lang": "French", "form": "nouveau", "note": "same, worn smooth" },
+      { "lang": "Greek", "form": "néos", "note": "→ neon, neologism, Paleolithic" },
+      { "lang": "Sanskrit", "form": "nava", "note": "same root" }
+    ]
+  },
+  {
+    "word": "feather",
+    "proto": "*peth₂rós? (Proto-Indo-European, debated)",
+    "gloss": "what flies",
+    "branches": [
+      { "lang": "English", "form": "feather", "note": "PIE *p → f, *t → th (double Grimm!)" },
+      { "lang": "German", "form": "Feder", "note": "f kept, t → d" },
+      { "lang": "Dutch", "form": "veer", "note": "worn down" },
+      { "lang": "Swedish", "form": "fjäder", "note": "same root" },
+      { "lang": "Latin", "form": "penna (wing)", "note": "from *pet- 'to fly' → pen, pennant" },
+      { "lang": "Spanish", "form": "pluma", "note": "from *pluma < pleu- 'to flow/fly'" },
+      { "lang": "Greek", "form": "pterón (wing)", "note": "→ helicopter, pterodactyl" },
+      { "lang": "Sanskrit", "form": "patati (flies)", "note": "the verb survives" }
+    ]
+  },
+  {
+    "word": "eye",
+    "proto": "*h₃ekʷ- (Proto-Indo-European)",
+    "gloss": "the seer",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*h₃okʷ-", "note": "the root" },
+      { "lang": "English", "form": "eye", "note": "Germanic *augō — different formation, same root" },
+      { "lang": "German", "form": "Auge", "note": "same Germanic noun" },
+      { "lang": "Swedish", "form": "öga", "note": "vowel fronted" },
+      { "lang": "Latin", "form": "oculus", "note": "→ ocular, binocular, monocle" },
+      { "lang": "Spanish", "form": "ojo", "note": "Latin oculum worn down" },
+      { "lang": "Greek", "form": "ósse / ōps", "note": "→ optic, autopsy (self-seeing)" },
+      { "lang": "Sanskrit", "form": "akṣi", "note": "same root" }
+    ]
+  },
+  {
+    "word": "star",
+    "proto": "*h₂stḗr (Proto-Indo-European)",
+    "gloss": "the scattered lights",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*h₂stḗr", "note": "the root" },
+      { "lang": "English", "form": "star", "note": "Germanic *sternaz" },
+      { "lang": "German", "form": "Stern", "note": "same" },
+      { "lang": "Dutch", "form": "ster", "note": "same" },
+      { "lang": "Swedish", "form": "stjärna", "note": "j from i-umlaut" },
+      { "lang": "Latin", "form": "stella", "note": "diminutive of the same root → stellar, constellation" },
+      { "lang": "Spanish", "form": "estrella", "note": "Latin stella with prosthetic e-" },
+      { "lang": "Greek", "form": "astḗr", "note": "→ astronomy, asteroid, disaster (bad star)" },
+      { "lang": "Sanskrit", "form": "tāras", "note": "same root" }
+    ]
+  },
+  {
+    "word": "three",
+    "proto": "*tréyes (Proto-Indo-European)",
+    "gloss": "the number",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*tréyes", "note": "the root" },
+      { "lang": "English", "form": "three", "note": "t → th (Grimm)" },
+      { "lang": "German", "form": "drei", "note": "*t stays d in German" },
+      { "lang": "Dutch", "form": "drie", "note": "same" },
+      { "lang": "Swedish", "form": "tre", "note": "Scandinavian kept t" },
+      { "lang": "Latin", "form": "trēs", "note": "→ trio, triple" },
+      { "lang": "Spanish", "form": "tres", "note": "Latin trēs" },
+      { "lang": "French", "form": "trois", "note": "same" },
+      { "lang": "Greek", "form": "treîs", "note": "→ triad, triangle" },
+      { "lang": "Sanskrit", "form": "tráyas", "note": "same" }
+    ]
+  },
+  {
+    "word": "name",
+    "proto": "*h₁nómn̥ (Proto-Indo-European)",
+    "gloss": "what something is called",
+    "branches": [
+      { "lang": "English", "form": "name", "note": "Germanic *namô" },
+      { "lang": "German", "form": "Name", "note": "same" },
+      { "lang": "Dutch", "form": "naam", "note": "long vowel" },
+      { "lang": "Swedish", "form": "namn", "note": "same" },
+      { "lang": "Latin", "form": "nōmen", "note": "→ nominal, noun, nominate" },
+      { "lang": "Spanish", "form": "nombre", "note": "Latin nomen" },
+      { "lang": "French", "form": "nom", "note": "worn to one syllable" },
+      { "lang": "Greek", "form": "ónoma", "note": "→ onomatopoeia (name-making)" },
+      { "lang": "Sanskrit", "form": "nā́man", "note": "same" }
+    ]
+  },
+  {
+    "word": "ghost",
+    "proto": "*ǵʰóysd-os (Proto-Indo-European, debated)",
+    "gloss": "spirit, terrifying sight",
+    "branches": [
+      { "lang": "Proto-Indo-European", "form": "*ǵʰéysd-o-", "note": "'angry, agitated' (debated)" },
+      { "lang": "English", "form": "ghost", "note": "Old English gāst; *ǵʰ → g (Grimm)" },
+      { "lang": "German", "form": "Geist", "note": "same word → also Zeitgeist, poltergeist" },
+      { "lang": "Dutch", "form": "geest", "note": "same" },
+      { "lang": "Swedish", "form": "gast", "note": "borrowed from Middle Low German geest" },
+      { "lang": "Latin", "form": "horrēre (to bristle)", "note": "if the root is 'agitated' → horror" },
+      { "lang": "Sanskrit", "form": "héḍas (anger)", "note": "cognate in 'fury' sense" }
+    ]
+  },
+  {
+    "word": "mother",
+    "proto": "*méh₂tēr (Proto-Indo-European)",
+    "gloss": "she who bore you",
+    "branches": [
+      { "lang": "English", "form": "mother", "note": "*t → th (Grimm)" },
+      { "lang": "German", "form": "Mutter", "note": "*t stays d sound, spelled t" },
+      { "lang": "Dutch", "form": "moeder", "note": "spelled with d" },
+      { "lang": "Swedish", "form": "moder / mor", "note": "both forms alive" },
+      { "lang": "Latin", "form": "māter", "note": "→ maternal, matrix, matter" },
+      { "lang": "Spanish", "form": "madre", "note": "Latin matrem" },
+      { "lang": "French", "form": "mère", "note": "worn down" },
+      { "lang": "Greek", "form": "mḗtēr", "note": "→ metropolis (mother city)" },
+      { "lang": "Sanskrit", "form": "mātár-", "note": "same" }
+    ]
+  },
+  {
+    "word": "salt",
+    "proto": "*séh₂ls (Proto-Indo-European)",
+    "gloss": "the white crystal",
+    "branches": [
+      { "lang": "English", "form": "salt", "note": "Germanic *saltą" },
+      { "lang": "German", "form": "Salz", "note": "t → z (High German shift)" },
+      { "lang": "Dutch", "form": "zout", "note": "s → z voicing" },
+      { "lang": "Swedish", "form": "salt", "note": "unchanged" },
+      { "lang": "Latin", "form": "sāl, sal-", "note": "→ salary, salad, saline" },
+      { "lang": "Spanish", "form": "sal", "note": "Latin sal" },
+      { "lang": "French", "form": "sel", "note": "l survives, vowel worn" },
+      { "lang": "Greek", "form": "háls", "note": "→ halogen, halo-" },
+      { "lang": "Sanskrit", "form": "lavaṇa", "note": "Indo-Aryan switched to a different word" }
+    ]
+  },
+  {
+    "word": "fire",
+    "proto": "*h₁n̥gʷnis or *péh₂wr̥ (two PIE words!)",
+    "gloss": "the burning",
+    "branches": [
+      { "lang": "English", "form": "fire", "note": "from *péh₂wr̥ → Germanic *fōr" },
+      { "lang": "German", "form": "Feuer", "note": "same 'p-row' word" },
+      { "lang": "Dutch", "form": "vuur", "note": "same" },
+      { "lang": "Swedish", "form": "fyr / eld", "note": "fyr survives in lighthouse sense" },
+      { "lang": "Latin", "form": "ignis", "note": "the *ngʷ- word → ignite" },
+      { "lang": "Spanish", "form": "fuego", "note": "from focus 'hearth', a third word" },
+      { "lang": "Sanskrit", "form": "agní", "note": "matches Latin ignis exactly" }
+    ]
+  },
+  {
+    "word": "snow",
+    "proto": "*snéygʷʰ- (Proto-Indo-European)",
+    "gloss": "frozen rain",
+    "branches": [
+      { "lang": "English", "form": "snow", "note": "*gʷʰ lost after Great Vowel Shift" },
+      { "lang": "German", "form": "Schnee", "note": "s → sch before l/n in German" },
+      { "lang": "Dutch", "form": "sneeuw", "note": "w kept" },
+      { "lang": "Swedish", "form": "snö", "note": "worn smooth" },
+      { "lang": "Latin", "form": "nix, niv-", "note": "initial s- lost → Nevada (snowy)" },
+      { "lang": "Spanish", "form": "nieve", "note": "Latin nivem" },
+      { "lang": "Greek", "form": "nípha", "note": "verb 'to snow', s- lost" },
+      { "lang": "Sanskrit", "form": "snéha", "note": "kept the s-" }
+    ]
+  }
+]

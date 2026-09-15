@@ -1,0 +1,206 @@
+[
+  {
+    "id": "en-de-th-d",
+    "pair": "en-de",
+    "rule": "th → d",
+    "ipa": "/θ/ → /d/",
+    "title": "English th becomes German d",
+    "explanation": "Grimm's Law: the Proto-Indo-European sound *dh became Germanic *d, which stayed d in German but spirantized to th in English. So almost any English word with 'th' has a German cousin with a plain 'd'.",
+    "unlocks": 1840,
+    "examples": [
+      { "en": "brother", "other": "Bruder" },
+      { "en": "feather", "other": "Feder" },
+      { "en": "weather", "other": "Wetter" },
+      { "en": "thank", "other": "danken" },
+      { "en": "three", "other": "drei" },
+      { "en": "think", "other": "denken" },
+      { "en": "mother", "other": "Mutter" },
+      { "en": "father", "other": "Vater" },
+      { "en": "bath", "other": "Bad" },
+      { "en": "cloth", "other": "Kleid" }
+    ]
+  },
+  {
+    "id": "en-de-p-f",
+    "pair": "en-de",
+    "rule": "p ↔ f / pf",
+    "ipa": "/p/ ↔ /f/",
+    "title": "English f often corresponds to German p, pf or f",
+    "explanation": "Grimm's Law turned PIE *p into Germanic *f (Latin pater → English father). Then the High German shift turned some of those p-sounds into pf in German: English plow = German Pflug, pepper = Pfeffer, path = Pfad.",
+    "unlocks": 920,
+    "examples": [
+      { "en": "sleep", "other": "schlafen" },
+      { "en": "ship", "other": "Schiff" },
+      { "en": "sharp", "other": "scharf" },
+      { "en": "deep", "other": "tief" },
+      { "en": "seven", "other": "sieben" },
+      { "en": "plow", "other": "Pflug" },
+      { "en": "pepper", "other": "Pfeffer" },
+      { "en": "path", "other": "Pfad" },
+      { "en": "cheap (kaufen, to buy)", "other": "kaufen" },
+      { "en": "pound", "other": "Pfund" }
+    ]
+  },
+  {
+    "id": "en-de-t-z",
+    "pair": "en-de",
+    "rule": "t → z / ss",
+    "ipa": "/t/ → /ts/ or /s/",
+    "title": "English t becomes German z (ts) or ss",
+    "explanation": "The High German consonant shift turned Germanic *t into an affricate (written z, pronounced /ts/) at the start of words, and into ss after vowels. English water = German Wasser; ten = zehn.",
+    "unlocks": 1100,
+    "examples": [
+      { "en": "water", "other": "Wasser" },
+      { "en": "ten", "other": "zehn" },
+      { "en": "tongue", "other": "Zunge" },
+      { "en": "time", "other": "Zeit" },
+      { "en": "salt", "other": "Salz" },
+      { "en": "eat", "other": "essen" },
+      { "en": "foot", "other": "Fuß" },
+      { "en": "white", "other": "weiß" },
+      { "en": "out", "other": "aus" },
+      { "en": "fence (Zaun)", "other": "Zaun" }
+    ]
+  },
+  {
+    "id": "en-de-d-t",
+    "pair": "en-de",
+    "rule": "d → t",
+    "ipa": "/d/ → /t/",
+    "title": "English d becomes German t",
+    "explanation": "The other half of the High German shift: Germanic *d became t in standard German. English day = German Tag; dance = tanzen; daughter = Tochter.",
+    "unlocks": 760,
+    "examples": [
+      { "en": "day", "other": "Tag" },
+      { "en": "door", "other": "Tür" },
+      { "en": "dance", "other": "tanzen" },
+      { "en": "daughter", "other": "Tochter" },
+      { "en": "death", "other": "Tod" },
+      { "en": "animal (Tier)", "other": "Tier" },
+      { "en": "do", "other": "tun" },
+      { "en": "drink", "other": "trinken" },
+      { "en": "dream", "other": "Traum" },
+      { "en": "dew", "other": "Tau" }
+    ]
+  },
+  {
+    "id": "en-de-k-ch",
+    "pair": "en-de",
+    "rule": "k → ch",
+    "ipa": "/k/ → /x/",
+    "title": "English k becomes German ch",
+    "explanation": "The High German shift also turned Germanic *k into ch after vowels and in some consonant clusters. English book = German Buch; make = machen; I = ich.",
+    "unlocks": 340,
+    "examples": [
+      { "en": "book", "other": "Buch" },
+      { "en": "break", "other": "brechen" },
+      { "en": "make", "other": "machen" },
+      { "en": "seek", "other": "suchen" },
+      { "en": "weak", "other": "weich" },
+      { "en": "belly (Bauch)", "other": "Bauch" },
+      { "en": "week", "other": "Woche" },
+      { "en": "I", "other": "ich" },
+      { "en": "speak", "other": "sprechen" },
+      { "en": "laugh", "other": "lachen" }
+    ]
+  },
+  {
+    "id": "en-de-vowels",
+    "pair": "en-de",
+    "rule": "ee/oo → i/u/au",
+    "ipa": "Great Vowel Shift mismatches",
+    "title": "English long vowels shifted; German's didn't",
+    "explanation": "English underwent the Great Vowel Shift (1400–1700); German did not. So English 'ee' /iː/ often corresponds to German 'i' (fish/Fisch), and old long a/o show up differently (stone/Stein, house/Haus).",
+    "unlocks": 610,
+    "examples": [
+      { "en": "fish", "other": "Fisch" },
+      { "en": "sweet", "other": "süß" },
+      { "en": "green", "other": "grün" },
+      { "en": "stone", "other": "Stein" },
+      { "en": "house", "other": "Haus" },
+      { "en": "mouse", "other": "Maus" },
+      { "en": "out", "other": "aus" },
+      { "en": "cheese", "other": "Käse" },
+      { "en": "old", "other": "alt" },
+      { "en": "cold", "other": "kalt" }
+    ]
+  },
+  {
+    "id": "en-la-p-f",
+    "pair": "en-es",
+    "rule": "Latin p → English f",
+    "ipa": "/p/ → /f/",
+    "title": "Latin p corresponds to English f (Grimm's Law)",
+    "explanation": "When Latin kept PIE *p, English turned it into f. So Latin piscis = fish, pater = father, ped- = foot. Spot a Latin or Spanish p and you can often guess the English cousin with an f.",
+    "unlocks": 830,
+    "examples": [
+      { "en": "fish", "other": "piscis (Latin)" },
+      { "en": "father", "other": "padre" },
+      { "en": "foot", "other": "pie (Latin pes, ped-)" },
+      { "en": "for", "other": "por" },
+      { "en": "few", "other": "paucus (Latin)" },
+      { "en": "full", "other": "lleno (Latin plenus)" },
+      { "en": "first", "other": "primero (Latin primus)" },
+      { "en": "flow", "other": "fluir (Latin fluere)" },
+      { "en": "farrow (piglet)", "other": "puerco (Latin porcus)" },
+      { "en": "deep", "other": "profundo (Latin profundus)" }
+    ]
+  },
+  {
+    "id": "en-la-t-th",
+    "pair": "en-es",
+    "rule": "Latin t → English th",
+    "ipa": "/t/ → /θ/",
+    "title": "Latin t corresponds to English th",
+    "explanation": "PIE *t stayed t in Latin but became th in English via Grimm's Law. Latin tres = three, tu = thou, dens = tooth, trans = through.",
+    "unlocks": 540,
+    "examples": [
+      { "en": "three", "other": "tres" },
+      { "en": "thou", "other": "tú" },
+      { "en": "tooth", "other": "diente (Latin dens, dent-)" },
+      { "en": "through", "other": "trans (Latin)" },
+      { "en": "thin", "other": "tenuis (Latin)" },
+      { "en": "thunder", "other": "tronar (Latin tonare)" },
+      { "en": "two", "other": "dos (Latin duo)" },
+      { "en": "ten", "other": "diez (Latin decem)" }
+    ]
+  },
+  {
+    "id": "en-la-k-h",
+    "pair": "en-es",
+    "rule": "Latin c/k → English h",
+    "ipa": "/k/ → /h/",
+    "title": "Latin c corresponds to English h",
+    "explanation": "PIE *k stayed k in Latin but became h in English. Latin canis = hound, cornu = horn, centum = hundred, cor = heart, caput = head.",
+    "unlocks": 300,
+    "examples": [
+      { "en": "hound", "other": "canis (Latin) / perro" },
+      { "en": "horn", "other": "cuerno (Latin cornu)" },
+      { "en": "hundred", "other": "cien (Latin centum)" },
+      { "en": "heart", "other": "corazón (Latin cor)" },
+      { "en": "head", "other": "cabeza (Latin caput)" },
+      { "en": "hart (stag)", "other": "cervos (Latin cervus)" }
+    ]
+  },
+  {
+    "id": "en-la-w-gu",
+    "pair": "en-es",
+    "rule": "English w ↔ Spanish gu / v",
+    "ipa": "/w/ ↔ /gw/, /b/",
+    "title": "Germanic w corresponds to Romance gu or v",
+    "explanation": "Latin initial w- (written v) became gu- in Spanish and v- in French. So Germanic w-words pair with Romance gu-/v-: ward/guardia, war/guerra, wine/vino, worth/valor.",
+    "unlocks": 210,
+    "examples": [
+      { "en": "ward (guard)", "other": "guardia" },
+      { "en": "war", "other": "guerra" },
+      { "en": "warrant", "other": "garantía" },
+      { "en": "William", "other": "Guillermo" },
+      { "en": "wine", "other": "vino (Latin vinum)" },
+      { "en": "vain", "other": "vano (Latin vanus)" },
+      { "en": "venom", "other": "veneno (Latin venenum)" },
+      { "en": "worth", "other": "valor (Latin valere)" },
+      { "en": "wise (guise)", "other": "guisa" },
+      { "en": "vowel (voice)", "other": "voz (Latin vox)" }
+    ]
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,
+    "source": "Latin",
+    "word": "PISCIS",
+    "answers": ["fish"],
+    "hints": [
+      "Grimm's Law: an initial Latin p- regularly becomes English f-.",
+      "It swims; Pisces is the zodiac sign of two of them.",
+      "Four letters, starts with F."
+    ],
+    "fact": "Latin piscis → English fish is the textbook Grimm's Law pair: PIE *p became Germanic *f. The same shift gives pater/father and ped-/foot."
+  },
+  {
+    "id": 2,
+    "source": "Latin",
+    "word": "PATER",
+    "answers": ["father"],
+    "hints": [
+      "Two shifts in one word: Latin p- → English f-, and Latin t → English th.",
+      "He's your male parent; the word survives in 'paternal'.",
+      "Six letters, starts with F."
+    ],
+    "fact": "pater → father shows the Grimm chain twice: *p→f and *t→th. Spanish padre only got one change away from Latin."
+  },
+  {
+    "id": 3,
+    "source": "Latin",
+    "word": "PES, PED-",
+    "answers": ["foot", "feet"],
+    "hints": [
+      "Latin p- → English f- (Grimm's Law).",
+      "You stand on two of them; see 'pedestrian' and 'podiatrist'.",
+      "Four letters, starts with F."
+    ],
+    "fact": "Latin pes, pedis → English foot. The d in the stem was lost in the Germanic branch: *ped- → *fōts."
+  },
+  {
+    "id": 4,
+    "source": "Latin",
+    "word": "TRES",
+    "answers": ["three"],
+    "hints": [
+      "Latin t- → English th- (Grimm's Law).",
+      "It's between two and four; trio, triple, triangle.",
+      "Five letters, starts with T."
+    ],
+    "fact": "tres → three: PIE *t became English th but stayed t in Latin (tres), German shows the third outcome: drei."
+  },
+  {
+    "id": 5,
+    "source": "Latin",
+    "word": "TU",
+    "answers": ["thou", "you"],
+    "hints": [
+      "Latin t- → English th-.",
+      "The old singular 'you', now mostly heard in wedding vows and Shakespeare.",
+      "Five letters, starts with T."
+    ],
+    "fact": "Latin tu → English thou (both from PIE *tuH). The German cousin is 'du' — the three pronouns match sound for sound."
+  },
+  {
+    "id": 6,
+    "source": "Latin",
+    "word": "NOX, NOCT-",
+    "answers": ["night"],
+    "hints": [
+      "The ct cluster of Latin often hides a simple English gh that went silent.",
+      "The opposite of day; nocturnal, equinox.",
+      "Five letters, starts with N."
+    ],
+    "fact": "noct- → night: the gh was once pronounced [ç] in English, cousin to German Nacht and Spanish noche."
+  },
+  {
+    "id": 7,
+    "source": "Latin",
+    "word": "DENS, DENT-",
+    "answers": ["tooth", "teeth"],
+    "hints": [
+      "Latin d- → English t-, Latin t → th: a two-step chain.",
+      "You brush them; dentist, trident, dandelion ('lion's tooth').",
+      "Five letters, starts with T."
+    ],
+    "fact": "dent- → tooth is Grimm's Law doubled: PIE *d→t and *t→th. German Zahn took a third road via the High German shift."
+  },
+  {
+    "id": 8,
+    "source": "Latin",
+    "word": "CORNU",
+    "answers": ["horn"],
+    "hints": [
+      "Latin c- (a k sound) often becomes English h-.",
+      "Trumpets and rhinos have them; cornucopia is the 'horn of plenty'.",
+      "Four letters, starts with H."
+    ],
+    "fact": "cornu → horn: PIE *k stayed k in Latin (cornu) but became h in Germanic. Spanish cuerno and German Horn complete the set."
+  },
+  {
+    "id": 9,
+    "source": "Latin",
+    "word": "CENTUM",
+    "answers": ["hundred"],
+    "hints": [
+      "Latin c- → English h-.",
+      "Ten tens; the word hides in 'century' and 'percent'.",
+      "Seven letters, starts with H."
+    ],
+    "fact": "centum → hundred: the same k→h shift as cornu/horn. Linguists literally name language branches 'centum' vs 'satem' after this word."
+  },
+  {
+    "id": 10,
+    "source": "Latin",
+    "word": "CANIS",
+    "answers": ["hound", "dog"],
+    "hints": [
+      "Latin c- → English h-.",
+      "Man's best friend; canine, kennel.",
+      "Five letters, starts with H."
+    ],
+    "fact": "canis → hound: 'dog' is the upstart Norse word that displaced the older hound, which lives on in 'greyhound' and German Hund."
+  },
+  {
+    "id": 11,
+    "source": "Latin",
+    "word": "NOVUS",
+    "answers": ["new"],
+    "hints": [
+      "This one is near-identical: only the vowel shape changed.",
+      "Not old; novel, novice, innovate.",
+      "Three letters, starts with N."
+    ],
+    "fact": "novus → new: sometimes the cipher is just vowel drift. Greek néos gives us 'neon' — literally the 'new one' gas."
+  },
+  {
+    "id": 12,
+    "source": "Latin",
+    "word": "NOMEN",
+    "answers": ["name"],
+    "hints": [
+      "Look past the vowels; the consonants n-m-n map one-to-one.",
+      "What your parents call you; nominal, noun, nominate.",
+      "Four letters, starts with N."
+    ],
+    "fact": "nomen → name: PIE *h₁nómn̥. The Sanskrit twin is nā́man — some words barely changed in 5,000 years."
+  },
+  {
+    "id": 13,
+    "source": "Latin",
+    "word": "STELLA",
+    "answers": ["star"],
+    "hints": [
+      "Ignore the diminutive ending -ella; the st- root is the key.",
+      "Twinkle twinkle; stellar, constellation.",
+      "Four letters, starts with S."
+    ],
+    "fact": "stella (a diminutive 'little star') and English star both descend from PIE *h₂stḗr, which also gives Greek astḗr → 'astronomy' and 'disaster' (bad star)."
+  },
+  {
+    "id": 14,
+    "source": "Latin",
+    "word": "MATER",
+    "answers": ["mother"],
+    "hints": [
+      "Latin t between vowels → English th.",
+      "She's your female parent; maternal, matrix, matter.",
+      "Six letters, starts with M."
+    ],
+    "fact": "māter → mother: the kinship suffix -ter is visible in mother, father, brother and daughter — a complete PIE family album."
+  },
+  {
+    "id": 15,
+    "source": "Latin",
+    "word": "FRATER",
+    "answers": ["brother"],
+    "hints": [
+      "Latin f- at the start of a family word often points to a Germanic b-.",
+      "Male sibling; fraternal, fraternity.",
+      "Seven letters, starts with B."
+    ],
+    "fact": "frater → brother: PIE *bʰ became Latin f and Germanic b. Spanish hermano lost the f entirely on the way down from Latin."
+  },
+  {
+    "id": 16,
+    "source": "Latin",
+    "word": "SAL",
+    "answers": ["salt"],
+    "hints": [
+      "Only one consonant moved — into a double letter.",
+      "Roman soldiers were partly paid in it; salary, salad, saline.",
+      "Four letters, starts with S."
+    ],
+    "fact": "sāl → salt: German Salz shows the High German t→z shift, while Greek háls hides in 'halogen' — the salt-forming elements."
+  },
+  {
+    "id": 17,
+    "source": "Latin",
+    "word": "PLENUS",
+    "answers": ["full"],
+    "hints": [
+      "Latin pl- simplifies to English f- plus a single l.",
+      "The opposite of empty; plenty, plenary, replenish.",
+      "Four letters, starts with F."
+    ],
+    "fact": "plenus → full: Spanish lleno doubled the l instead. The same *pl- → f shift appears in primus → first."
+  },
+  {
+    "id": 18,
+    "source": "Latin",
+    "word": "PRIMUS",
+    "answers": ["first"],
+    "hints": [
+      "Latin pr- becomes English f- (yes, really).",
+      "Before all the others; primary, prime, premier.",
+      "Five letters, starts with F."
+    ],
+    "fact": "primus → first: the flashiest Grimm pair after piscis/fish. PIE *p always yields English f when the word is native."
+  },
+  {
+    "id": 19,
+    "source": "Latin",
+    "word": "TONARE",
+    "answers": ["thunder"],
+    "hints": [
+      "Latin t- → English th-; the ending -are just means 'to'.",
+      "What follows lightning; the Norse god Thor has the same root.",
+      "Seven letters, starts with T."
+    ],
+    "fact": "tonāre → thunder: Latin t → English th, and the -d- was added in Germanic. Spanish tronar kept everything but the accent."
+  },
+  {
+    "id": 20,
+    "source": "Latin",
+    "word": "TRANS",
+    "answers": ["through"],
+    "hints": [
+      "Latin t- → English th-; both words describe passing.",
+      "'From one side to the other'; transport, transit, transparent.",
+      "Seven letters, starts with T."
+    ],
+    "fact": "trans → through: both from PIE *terh₂- 'to cross'. The English gh was once pronounced, like the ch in German 'durch'."
+  },
+  {
+    "id": 21,
+    "source": "Latin",
+    "word": "TENUIS",
+    "answers": ["thin"],
+    "hints": [
+      "Latin t- → English th-.",
+      "Not thick; the word hides in 'tenuous' and 'attenuate'.",
+      "Four letters, starts with T."
+    ],
+    "fact": "tenuis → thin: a crisp demonstration that Latin t and English th are the same sound wearing different centuries."
+  },
+  {
+    "id": 22,
+    "source": "Latin",
+    "word": "VINUM",
+    "answers": ["wine"],
+    "hints": [
+      "Latin v- (pronounced w-) maps to English w-.",
+      "Made from grapes; vine, vinegar, vineyard.",
+      "Four letters, starts with W."
+    ],
+    "fact": "vīnum → wine: Latin v was actually a w-sound, so the two words sounded nearly identical 2,000 years ago."
+  },
+  {
+    "id": 23,
+    "source": "Latin",
+    "word": "VENENUM",
+    "answers": ["venom"],
+    "hints": [
+      "This one is nearly a freebie — say the Latin aloud.",
+      "Snake's delivery mechanism; the word is a cousin of 'Venus' (charms, potions).",
+      "Five letters, starts with V."
+    ],
+    "fact": "venēnum → venom: borrowed through French from Latin, so it kept its shape. The native Germanic cognate of the root is 'win(n)' — strife."
+  },
+  {
+    "id": 24,
+    "source": "Latin",
+    "word": "VANUS",
+    "answers": ["vain", "wane", "want"],
+    "hints": [
+      "Latin v- = w-, so think w- words.",
+      "Empty, lacking; 'vanity', 'evanescent', 'wane'.",
+      "Four letters, starts with V or W."
+    ],
+    "fact": "vānus → vain/wane/want: one Latin root scattered into three English words depending on which branch carried it."
+  },
+  {
+    "id": 25,
+    "source": "Greek",
+    "word": "KARDIA",
+    "answers": ["heart"],
+    "hints": [
+      "Greek k- → English h- when the word is native Germanic.",
+      "It beats in your chest; cardiac, cardiology.",
+      "Five letters, starts with H."
+    ],
+    "fact": "kardía → heart: PIE *ḱ became k in Greek, h in English, s in Russian (serdtse). Three branches, three sounds, one word."
+  },
+  {
+    "id": 26,
+    "source": "Greek",
+    "word": "NYX",
+    "answers": ["night"],
+    "hints": [
+      "The Greek lost a consonant English kept silent.",
+      "Goddess of the dark; nyctalopia is night-blindness.",
+      "Five letters, starts with N."
+    ],
+    "fact": "nýks → night: Greek dropped the -t- of PIE *nókʷts that survives (silently) in English night and audibly in German Nacht."
+  },
+  {
+    "id": 27,
+    "source": "Greek",
+    "word": "ODOUS, ODONT-",
+    "answers": ["tooth"],
+    "hints": [
+      "Greek d- → English t-: the same double-step as Latin dens.",
+      "Mastodon = 'breast tooth'; orthodontist straightens them.",
+      "Five letters, starts with T."
+    ],
+    "fact": "odoús → tooth: Greek, Latin and Germanic each applied their own shift to PIE *h₃dónts — 'the biter' (from the verb 'to eat')."
+  },
+  {
+    "id": 28,
+    "source": "Greek",
+    "word": "KYON, KYN-",
+    "answers": ["hound", "dog"],
+    "hints": [
+      "Greek k- → English h-.",
+      "Cynics were literally 'dog-like' philosophers; cytology is not this root.",
+      "Five letters, starts with H."
+    ],
+    "fact": "kýōn → hound: 'cynic' comes from the Cynics being teased as dogs. Sanskrit śvā shows the satem shift of the same root."
+  },
+  {
+    "id": 29,
+    "source": "Greek",
+    "word": "NEOS",
+    "answers": ["new"],
+    "hints": [
+      "Swap the ending and smooth the vowel.",
+      "Neon, neologism, Neolithic — all brand new.",
+      "Three letters, starts with N."
+    ],
+    "fact": "néos → new: the neon sign is etymologically tautological — the 'new gas'."
+  },
+  {
+    "id": 30,
+    "source": "Greek",
+    "word": "ASTRON",
+    "answers": ["star"],
+    "hints": [
+      "Greek keeps the s- that Latin and Germanic also kept — this one is about the tail.",
+      "Astronomy, asteroid, disaster.",
+      "Four letters, starts with S."
+    ],
+    "fact": "ástron → star: a 'disaster' is literally a bad star — astrology written into English luck."
+  },
+  {
+    "id": 31,
+    "source": "Greek",
+    "word": "ONOMA",
+    "answers": ["name"],
+    "hints": [
+      "The consonants n-m map directly; the vowels drifted.",
+      "Onomatopoeia = 'name-making'; synonym = 'with-name'.",
+      "Four letters, starts with N."
+    ],
+    "fact": "ónoma → name: English 'name', Latin nomen, Greek onoma, Sanskrit nāman — a four-branch match on a single root."
+  },
+  {
+    "id": 32,
+    "source": "Greek",
+    "word": "HALS",
+    "answers": ["salt"],
+    "hints": [
+      "Greek h- can hide an s- that English kept at the end.",
+      "Halogen, halite (rock salt).",
+      "Four letters, starts with S."
+    ],
+    "fact": "háls → salt: Greek lost the initial s (as Latin nix lost it from snow) — vowels and edges erode, consonant cores survive."
+  },
+  {
+    "id": 33,
+    "source": "German",
+    "word": "BRUDER",
+    "answers": ["brother"],
+    "hints": [
+      "English th → German d is the single most productive pair in the family.",
+      "Male sibling; Brüderlichkeit is 'brotherliness'.",
+      "Seven letters, starts with B."
+    ],
+    "fact": "Bruder → brother: PIE *bʰréh₂tēr → German Bruder, English brother, Latin frater, Sanskrit bhrātar. One word, five passports."
+  },
+  {
+    "id": 34,
+    "source": "German",
+    "word": "WETTER",
+    "answers": ["weather"],
+    "hints": [
+      "tt in German often stands where English puts th.",
+      "Rain, sun, and clouds; the German word covers both 'weather' and 'wetter'.",
+      "Seven letters, starts with W."
+    ],
+    "fact": "Wetter → weather: the same th/d pair as Bruder. If you know one rule you own ~1,800 German words."
+  },
+  {
+    "id": 35,
+    "source": "German",
+    "word": "ZEHN",
+    "answers": ["ten"],
+    "hints": [
+      "German z is pronounced 'ts' — a shifted English t.",
+      "The base of the decimal system; see also 'zehnmal' = ten times.",
+      "Three letters, starts with T."
+    ],
+    "fact": "zehn → ten: the High German consonant shift turned Germanic *t into z/ss — the same law that gives Wasser/water and Zeit/time."
+  },
+  {
+    "id": 36,
+    "source": "German",
+    "word": "WASSER",
+    "answers": ["water"],
+    "hints": [
+      "German ss often corresponds to English t after a vowel.",
+      "H₂O in every German beer garden.",
+      "Five letters, starts with W."
+    ],
+    "fact": "Wasser → water: both from PIE *wódr̥, whose other branch gives Greek hýdōr — hydrogen is 'water-generator'."
+  },
+  {
+    "id": 37,
+    "source": "German",
+    "word": "DANKE",
+    "answers": ["thank", "thanks"],
+    "hints": [
+      "English th → German d, word-initially.",
+      "What you say when the Kellner brings the Bier; 'danke schön'.",
+      "Five letters, starts with T."
+    ],
+    "fact": "danken → thank: English kept the th, German the d — thank/thank-you and danke are the same word said two ways."
+  },
+  {
+    "id": 38,
+    "source": "German",
+    "word": "NACHT",
+    "answers": ["night"],
+    "hints": [
+      "German ch [x] is what English gh used to sound like.",
+      "Gute Nacht! says itself.",
+      "Five letters, starts with N."
+    ],
+    "fact": "Nacht → night: English gh went silent after the Great Vowel Shift, which is why 'night' no longer sounds like German 'Nacht'."
+  },
+  {
+    "id": 39,
+    "source": "German",
+    "word": "BUCH",
+    "answers": ["book"],
+    "hints": [
+      "English k after a vowel → German ch.",
+      "Buchstaben — 'book-sticks' — is the German word for letters.",
+      "Four letters, starts with B."
+    ],
+    "fact": "Buch → book: the High German shift k→ch. Buche (beech tree) is related — early Germanic writing was carved on beech boards."
+  },
+  {
+    "id": 40,
+    "source": "German",
+    "word": "ZEIT",
+    "answers": ["time", "tide"],
+    "hints": [
+      "German z [ts] ↔ English t.",
+      "Zeitgeist, literally 'the spirit of the ___'.",
+      "Four letters, starts with T."
+    ],
+    "fact": "Zeit → time/tide: Old English tīd meant both. 'Yuletide' preserves the older sense; time took the abstract one."
+  },
+  {
+    "id": 41,
+    "source": "German",
+    "word": "LACHEN",
+    "answers": ["laugh"],
+    "hints": [
+      "English gh ↔ German ch; the -en is just the verb ending.",
+      "What you do at a joke; Gelächter is laughter.",
+      "Five letters, starts with L."
+    ],
+    "fact": "lachen → laugh: another gh/ch pair like Nacht/night. English spelling is a museum of sounds we lost."
+  },
+  {
+    "id": 42,
+    "source": "German",
+    "word": "TRINKEN",
+    "answers": ["drink"],
+    "hints": [
+      "English d at the start of a word → German t.",
+      "What you do with Bier; ein Getränk is a beverage.",
+      "Five letters, starts with D."
+    ],
+    "fact": "trinken → drink: the d/t swap of Tag/day and Tanz/dance — products of the High German consonant shift, ~500 AD."
+  },
+  {
+    "id": 43,
+    "source": "Spanish",
+    "word": "PADRE",
+    "answers": ["father"],
+    "hints": [
+      "Latin p- inside a Spanish word points to English f-.",
+      "El padre de la familia; paternal.",
+      "Six letters, starts with F."
+    ],
+    "fact": "padre → father: Spanish is Latin worn smooth, so every Spanish p-word is a hint that English may have an f-cousin."
+  },
+  {
+    "id": 44,
+    "source": "Spanish",
+    "word": "NUEVO",
+    "answers": ["new"],
+    "hints": [
+      "The n- root is unchanged; watch the vowels dance.",
+      "¡Año nuevo! Brand ___ year.",
+      "Three letters, starts with N."
+    ],
+    "fact": "nuevo → new: from Latin novus. French neuf, Italian nuovo — the Romance family disagrees only about the ending."
+  },
+  {
+    "id": 45,
+    "source": "Spanish",
+    "word": "DIENTE",
+    "answers": ["tooth"],
+    "hints": [
+      "Spanish d- → English t-; and Latin ct became Spanish ch on the way.",
+      "El diente — you have 32; dentist is the borrowed double.",
+      "Five letters, starts with T."
+    ],
+    "fact": "diente → tooth: from Latin dentem. Noctem → noche shows the same ct→ch Spanish signature."
+  },
+  {
+    "id": 46,
+    "source": "Spanish",
+    "word": "NOCHE",
+    "answers": ["night"],
+    "hints": [
+      "Spanish ch often collapses a Latin ct; the English cousin hides a silent gh.",
+      "Buenas noches.",
+      "Five letters, starts with N."
+    ],
+    "fact": "noche → night: three languages, one PIE word — Latin noctem, Spanish noche, German Nacht, English night."
+  },
+  {
+    "id": 47,
+    "source": "Spanish",
+    "word": "GUERRA",
+    "answers": ["war"],
+    "hints": [
+      "Germanic w- corresponds to Romance gu-.",
+      "An oddly Germanic-looking word in Spanish — it was borrowed early; 'guerrilla' is its little version.",
+      "Three letters, starts with W."
+    ],
+    "fact": "guerra → war: Spanish borrowed this from Germanic *werra. The same w/gu pairing gives ward/guardia and William/Guillermo."
+  },
+  {
+    "id": 48,
+    "source": "Swedish",
+    "word": "FJÄDER",
+    "answers": ["feather"],
+    "hints": [
+      "In Germanic, fj- often simplifies to plain f-.",
+      "What birds are covered in; Swedish fjäder is also an archaic 'spring' (it bounces).",
+      "Seven letters, starts with F."
+    ],
+    "fact": "fjäder → feather: German Feder, Dutch veer, English feather — the whole Germanic branch agrees on this one."
+  },
+  {
+    "id": 49,
+    "source": "Dutch",
+    "word": "VADER",
+    "answers": ["father"],
+    "hints": [
+      "Dutch v- often maps to English f-.",
+      "Vaderlijk = fatherly. Yes, Darth Vader is literally 'Dark Father' in Dutch.",
+      "Six letters, starts with F."
+    ],
+    "fact": "vader → father: Dutch sits between English and German — vader/father/Vater is the whole Grimm spectrum in one row."
+  },
+  {
+    "id": 50,
+    "source": "Sanskrit",
+    "word": "MATAR",
+    "answers": ["mother"],
+    "hints": [
+      "Sanskrit m- stays m- everywhere; it's the -t- that turned to th in English.",
+      "Mātā in Hindi today; the -r is an old case ending.",
+      "Six letters, starts with M."
+    ],
+    "fact": "mātar- → mother: the Sanskrit, Latin (māter), Greek (mḗtēr) and English words match consonant for consonant — PIE's most durable word."
+  },
+  {
+    "id": 51,
+    "source": "Sanskrit",
+    "word": "NAVA",
+    "answers": ["new"],
+    "hints": [
+      "Only the final vowel moved.",
+      "Nava- is the root behind Spanish nuevo and Greek neon — same family, different branch.",
+      "Three letters, starts with N."
+    ],
+    "fact": "nava → new: from 'new' to 'novel' to 'neon' — the root is one of the most-traveled words in the world's languages."
+  },
+  {
+    "id": 52,
+    "source": "French",
+    "word": "NUIT",
+    "answers": ["night"],
+    "hints": [
+      "French wore the Latin word down to three sounds.",
+      "Bonne nuit!",
+      "Five letters, starts with N."
+    ],
+    "fact": "nuit → night: French deleted more of noctem than any sibling — from two syllables to one, from ct to a mere glide."
+  },
+  {
+    "id": 53,
+    "source": "Italian",
+    "word": "PESCE",
+    "answers": ["fish"],
+    "hints": [
+      "Italian p- → English f- (Grimm again).",
+      "You order it grilled at the trattoria; piscatorial is its Latin uncle.",
+      "Four letters, starts with F."
+    ],
+    "fact": "pesce → fish: Italian just softened Latin piscis (sc → sh-sound); English ran it through the Grimm grinder."
+  },
+  {
+    "id": 54,
+    "source": "Russian",
+    "word": "VODA",
+    "answers": ["water"],
+    "hints": [
+      "Slavic v- corresponds to English w- (both from PIE *w).",
+      "Add a diminutive and you get a famous clear spirit.",
+      "Five letters, starts with W."
+    ],
+    "fact": "voda → water: vodka is 'little water' — the diminutive of the same PIE *wódr̥ that gives English water and Greek hydro-."
+  },
+  {
+    "id": 55,
+    "source": "Latin",
+    "word": "Oculus",
+    "answers": ["eye"],
+    "hints": [
+      "Latin -ul- diminutives often shrink; the o-k consonants map to a vowel + gh in English.",
+      "Binocular, oculist — the seeing organ.",
+      "Three letters, starts with E."
+    ],
+    "fact": "oculus → eye: English 'eye' comes from the Germanic branch of the same root (augō → Auge, öga), a different formation of 'the seer'."
+  },
+  {
+    "id": 56,
+    "source": "Latin",
+    "word": "UNDA",
+    "answers": ["water", "wave"],
+    "hints": [
+      "The same PIE root *wed- that gives English 'water' took a d-suffix in Latin.",
+      "Undulate, abundant ('overflowing'), inundate.",
+      "Five letters, starts with W."
+    ],
+    "fact": "unda → water: not a letter-for-letter match — a root-level cognate. The d of unda and the t of water are cousins."
+  }
+]
