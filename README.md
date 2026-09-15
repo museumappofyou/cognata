@@ -1,37 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cognata — The Language Decryption Engine
 
-## Getting Started
+> You already know 3,000 words in German, Spanish, Italian and French —
+> you just don't know the cipher yet.
 
-First, run the development server:
+Cognata is a cross-platform Flutter app about **linguistic cryptography**:
+Proto-Indo-European sound laws (Grimm's Law, the High German shift) turned into
+a daily puzzle, a rule matrix, and a word-family atlas. The Origins page adds
+precomputed 3D terrain renders of the Pontic–Caspian steppe — the homeland the
+language family started from.
+
+## Features
+
+- **The Daily Cognate** — one mystery word a day, three guesses, escalating
+  hints, streaks, shareable result. State lives in `shared_preferences`.
+- **The Decryption Matrix** — the ten most productive sound laws for
+  English ↔ German and English ↔ Spanish/Latin, with one-tap Anki (TSV) export.
+- **The Kinship Tree** — a word's cousins across fifteen languages, drawn with
+  a custom painter and pannable/zoomable (`InteractiveViewer`).
+- **Origins** — a path-traced steppe diorama: hero render, a 24-frame
+  scrubbable turntable, and an animated flyover, all precomputed with
+  [forge3d](https://github.com/milos-agathon/forge3d).
+
+## Platforms
+
+iOS, Android, macOS, web, Windows and Linux. Web output (`flutter build web`)
+replaces the project's original Next.js site.
+
+## Getting started
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+flutter pub get
+flutter run            # pick a device, e.g. -d macos, -d chrome, -d ios
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Checks
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+flutter analyze
+flutter test
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Precomputed 3D assets
 
-## Learn More
+The Origins content is baked offline — the app needs no GPU or Python at
+runtime. Frames live in `assets/forge3d/` (WebP).
 
-To learn more about Next.js, take a look at the following resources:
+To regenerate them (needs Python 3.10+, a wgpu-capable GPU, and
+`cwebp`/`img2webp` from `brew install webp`):
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+scripts/render_assets.sh
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+See [`tools/forge3d/README.md`](tools/forge3d/README.md) for the pipeline and
+data attribution (Mapzen Terrarium elevation, AWS Open Data).
 
-## Deploy on Vercel
+## Project layout
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+lib/
+  main.dart                  app entry, data loading
+  src/app/                   adaptive shell + scope (nav, DI)
+  src/core/                  models, sound-law logic, record store
+  src/data/                  bundled JSON loader
+  src/pages/                 home, daily, matrix, tree, origins, about
+  src/theme/                 Cognata colors, fonts, ThemeData
+  src/widgets/               cards, pills, page body/header
+assets/
+  data/                      soundLaws.json, familyTrees.json, puzzles.json
+  fonts/                     Playfair Display + Merriweather (variable)
+  forge3d/                   precomputed terrain renders
+tools/forge3d/               offline render pipeline (Python + forge3d)
+scripts/render_assets.sh     one-command asset rebuild
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# cognata
+## Credits & caveats
+
+Etymologies are curated from standard historical-linguistics references and the
+Wiktionary etymology community; the [etymology-db
+project](https://github.com/droher/etymology-db) has the full derivation graph.
+Sound laws are regular, but real words wander — the notes say so where we know.

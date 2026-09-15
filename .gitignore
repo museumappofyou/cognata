@@ -1,44 +1,49 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
 .DS_Store
-*.pem
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
 
-# env files (can opt-in for committing if needed)
-.env*
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
 
-# vercel
-.vercel
+# Symbolication related
+app.*.symbols
 
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# forge3d precompute artifacts (rendered WebP outputs are committed)
+/tools/forge3d/.venv/
+/tools/forge3d/cache/
+/tools/forge3d/out/
 
 # editor/tooling state
 .zcode/
